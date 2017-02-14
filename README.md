@@ -1,3 +1,5 @@
+# The commands what Siri understands.
+Commands published disocvered via [Siri.io](https://hey-siri.io/) project. Unfortunately, they have stopped this project and we do not provide this database anymore. Thus, I created a copy here.
 # Commands in English
 ## Conversion
 What are *130* *miles* in *yards* ?
